@@ -1,2 +1,4 @@
-EIS-APIM-Platform/
-EIS-Specification-Party-Reference/
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
