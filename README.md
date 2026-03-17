@@ -7,7 +7,7 @@ This repository combines two APIM-focused codebases into one Git repository:
 
 The two folders are intentionally separated by ownership and deployment scope.
 
-## Repository Purpose
+# Repository Purpose
 
 Use this monorepo to manage:
 
